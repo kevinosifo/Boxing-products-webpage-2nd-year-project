@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="boxingproducts.xsl" type="text/xsl"?>
+
+<!-- This is for a boxing company that sells boxing gear-->
+<boxing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <product>
+        <category>Boxing Shoes</category>
+        <code>000-98</code>
+        <name itemid ="345">KO Boxing Boots</name>
+        <description>Good stability</description>
+        <quantity>10</quantity>
+        <price>$170</price>
+    </product>
+    <product id="346">
+        <category>Boxing Shoes</category>
+        <code>001-22</code>
+        <name itemid="346" >Nike Hyper Ko</name>
+        <description>Good stability and grip</description>
+        <quantity>3</quantity>
+        <price>$130</price>
+    </product>
+    <product id="370">
+        <category>Londsdale Boxing Shoes</category>
+        <code>003-73</code>
+        <name itemid="370">Boxing Shoes</name>
+        <description>Perfect for new boxers </description>
+        <quantity>9</quantity>
+        <price>$200</price>
+    </product>
+    <product id="378">
+        <category>Boxing Short and vest</category>
+        <code>021-23</code>
+        <name itemid="378">KO Unlimited set</name>
+        <description>Comfortable Boxing set </description>
+        <quantity>60</quantity>
+        <price>$80</price>
+    </product>
+    <product id="865">
+        <category>Boxing Short and vest</category>
+        <code>024-61</code>
+        <name itemid="865">Hyper limited Set</name>
+        <description>Comfortable Boxing shorts and vestt </description>
+        <quantity>25</quantity>
+        <price>$120</price>
+    </product>
+    <product id="900">
+        <category>Boxing Short and vest</category>
+        <code>111-89</code>
+        <name itemid="900">Unchained</name>
+        <description>unchained set</description>
+        <quantity>25</quantity>
+        <price>$120</price>
+    </product>
+    <product id="756">
+        <category>Boxing Gloves</category>
+        <code>091-21</code>
+        <name itemid="756">Knockout Gloves</name>
+        <description>Let your punches feel like lightning with our knockout sparring gloves</description>
+        <quantity>23</quantity>
+        <price>$200</price>
+    </product>
+    <product id="711">
+        <category>Headguard</category>
+        <code>097-32</code>
+        <name itemid="711">Headguard</name>
+        <description>Feel Like the legendary rocky </description>
+        <quantity>10</quantity>
+        <price>$150</price>
+    </product>
+    <product id="1000">
+        <category>Groin Guard</category>
+        <code>008-10</code>
+        <name itemid="1000">Red riot</name>
+        <description>Always stay protected</description>
+        <quantity>40</quantity>
+        <price>$100</price>
+    </product>
+    <product id="150">
+        <category>Boxing Wraps</category>
+        <code>021-99</code>
+        <name itemid="150">KO Wraps</name>
+        <description>wrap your knuckles</description>
+        <quantity>5</quantity>
+        <price>$200</price>
+    </product>
+
+</boxing>

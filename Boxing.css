@@ -1,0 +1,110 @@
+.shopName{
+     color:white;
+     font-size:medium;
+     font-family: Arial, Helvetica, sans-serif
+}
+
+.logo{
+  position: relative;
+  top:-5px;
+  left: 85px;
+  display: inline-block;
+}
+/* Add a White background color to the top navigation */
+.topnav {
+
+     overflow: hidden;
+   }
+   
+/* Style the links inside the navigation bar */
+.topnav1 a {
+     float: right;
+     color:white;
+     text-align: center;
+     padding: 14px 12px;
+     text-decoration: none;
+     font-size: 17px;
+   }
+
+   .topnav a {
+    float: right;
+    color:black;
+    text-align: center;
+    padding: 14px 12px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+
+.home {
+     background-image: url("images/backback.png.png"), url("Background");
+     background-color: #cccccc;
+}
+
+
+.text{
+  color: white;
+}
+.shopName{
+    color: white;
+}
+
+.search{
+  text-align: center;
+  background-color: white;
+  margin: 10px;
+}
+.search-border{
+  align-items:center;
+  border-radius: 100px;
+  display: flex;
+  background-color: white;
+  height: 25px;
+
+
+}
+.wrapper{
+  grid: auto / auto auto auto;
+  display: grid;
+  gap: 32px;
+}
+
+.product{
+  text-align: center;
+  width: 300px;
+  border-radius: 5px;
+  background-image: linear-gradient( rgb(85, 82, 82), rgb(232, 115, 115));
+
+}
+
+.imgg{
+  margin-top: 20px;
+}
+
+
+.productsPage{
+  background-color: grey;
+  margin: 10px;
+}
+
+.error{
+  display:none;
+  text-align:center;
+  border: 1px solid black;
+}
+.text{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30;
+
+
+
+}
+.type{
+  text-align: center;
+  color: whitesmoke;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 2px solid black;
+  word-wrap: break-word;
+}
+
